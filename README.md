@@ -6,9 +6,9 @@
 <p align="center">
   <a href="https://github.com/Kxnrl/modsharp-public"><img src="https://img.shields.io/badge/framework-ModSharp-5865F2?logo=github" alt="ModSharp"></a>
   <img src="https://img.shields.io/badge/game-CS2-orange" alt="CS2">
-  <img src="https://img.shields.io/github/license/yappershq/Kreedz" alt="License">
-  <img src="https://img.shields.io/github/actions/workflow/status/yappershq/Kreedz/build.yml?branch=master" alt="Build">
-  <img src="https://img.shields.io/github/stars/yappershq/Kreedz?style=flat&logo=github" alt="Stars">
+  <img src="https://img.shields.io/github/license/cs2-server-plugins/cs2-kreedz" alt="License">
+  <img src="https://img.shields.io/github/actions/workflow/status/cs2-server-plugins/cs2-kreedz/build.yml?branch=master" alt="Build">
+  <img src="https://img.shields.io/github/stars/cs2-server-plugins/cs2-kreedz?style=flat&logo=github" alt="Stars">
 </p>
 
 ---
@@ -168,6 +168,6 @@ Outputs each project's `.dll` under its `bin/Release/net10.0/`; CI publishes the
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/yappershq">yappershq</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/cs2-server-plugins">yappershq</a></p>
   <p>⭐ Star this repo if you find it useful!</p>
 </div>
